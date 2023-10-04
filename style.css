@@ -1,0 +1,43 @@
+body {
+margin:0;
+font-family: 'Poppins', sans-serif;
+background-image: url('https://img.freepik.com/free-photo/white-painted-wall-texture-background_53876-138197.jpg?w=2000');
+text-align:center;
+
+}
+
+#h1 {
+	font-size:90px;
+	text-align:center;
+}
+
+a {
+	font-size:25px;
+	text-decoration:none;
+	color:black;
+}
+
+nav {
+	background-color:white;
+	text-align:left;
+}
+
+img {
+	max-width:300px;
+	max-height:400px;
+}
+
+#button {
+	background-color:grey;
+	padding:15px;
+	border:2px solid black;
+	border-radius:200px;
+	font-family: 'Poppins', sans-serif;
+	font-size:25px;
+}
+
+#funzioni {
+	display:none;
+}
+	
+	
